@@ -49,7 +49,7 @@ let retrievedStoredToken = () => {
   }
 }
 
-///https://back-end-xmn7.onrenderlll.com
+///https://haglos-backend-xknt.onrenderll.com
 
 //login in admin by force
 export const checkIfIsLoggedIn = () => {

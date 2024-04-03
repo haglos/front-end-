@@ -68,10 +68,6 @@ function Login({ status }) {
 
 
 
-    
-
-
-
 
     let changeHandler = (e,type)=>{
         if(type === 'username'){
